@@ -2,9 +2,7 @@
 
 **QuickStay** is a full-featured hotel booking web application that allows users to search for hotels, log in securely, and manage their reservations. Hotel owners can list rooms, manage availability, and track bookings via a dedicated dashboard.
 
-![QuickStay Banner](assets/homepage.png)
 
----
 
 ## 🚀 Live Demo
 
@@ -35,6 +33,9 @@
 ### 🔹 Google Login Popup
 ![Login](assets/login-popup.png)
 
+### 🔹 After login
+![Login](assets/after-login.png)
+
 ### 🔹 Dashboard (Logged In)
 ![Dashboard](assets/dashboard.png)
 
@@ -43,9 +44,6 @@
 
 ### 🔹 Bookings Page
 ![Bookings](assets/my-bookings.png)
-
-### 🔹 Recommendation Search Result
-![Search Result](assets/search-result.png)
 
 ---
 
