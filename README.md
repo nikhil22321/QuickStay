@@ -20,7 +20,7 @@
 - 💳 **Stripe Payment Integration** for secure booking payments
 - 📅 **Date Picker** for check-in and check-out
 - 📧 **Email Confirmation** sent after successful booking
-- 📱 **Fully Responsive UI** built with Tailwind CSS
+- 📱 **Fully Responsive UI** 
 - 🖼️ **Modern Design** with Lucide icons & custom SVGs
 
 ---
