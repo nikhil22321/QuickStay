@@ -20,7 +20,7 @@
 - 💳 **Stripe Payment Integration** for secure booking payments
 - 📅 **Date Picker** for check-in and check-out
 - 📧 **Email Confirmation** sent after successful booking
-- 📱 **Fully Responsive UI** 
+- 📱 **Fully Responsive UI** built with Tailwind CSS
 - 🖼️ **Modern Design** with Lucide icons & custom SVGs
 
 ---
@@ -57,11 +57,12 @@
 
 ### 🔐 Authentication
 - Clerk.dev (Google Sign-In, Email login)
+- Stripe – for secure payment processing after booking
 
 ### 🌐 Backend
 - Node.js
 - Express.js
-- MongoDB *(planned)*
+- MongoDB 
 - MVC Architecture (Models, Controllers, Routes)
 
 ---
