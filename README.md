@@ -30,11 +30,21 @@
 ### 🔹 Home Page
 ![Home Page](assets/homepage.png)
 
+![Home Page](assets/featured-destination.png)
+
+![Home Page](assets/exclusive-offers.png)
+
+![Home Page](assets/guest.png)
+
+![Home Page](assets/mail.png)
+
 ### 🔹 Google Login Popup
 ![Login](assets/login-popup.png)
 
 ### 🔹 After login
 ![Login](assets/after-login.png)
+
+![Login](assets/recommended-hotels.png)
 
 ### 🔹 Dashboard (Logged In)
 ![Dashboard](assets/dashboard.png)
